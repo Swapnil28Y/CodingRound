@@ -1,0 +1,8 @@
+Question: what are the key things you would consider when 
+creating/consuming an API to ensure that it is secure and reliable
+
+To make api secure and reliable we have to work on security on priority
+we have to use exception handling because there are number of edge cases where exception might get occur
+so to eliminate this we can make use of exception handling.
+there should be proper data validation.
+Naming for the particular 
